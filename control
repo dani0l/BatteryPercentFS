@@ -1,0 +1,9 @@
+Package: com.drewsdunne.batterypercentfs
+Name: BatteryPercentFS
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A flipswitch toggle for the battery percentage!
+Maintainer: drewsdunne
+Author: drewsdunne
+Section: Addons (Flipswitch)
